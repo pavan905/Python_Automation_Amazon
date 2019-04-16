@@ -1,0 +1,6 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Tue Apr 16 14:21:05 IST 2019","Tue Apr 16 14:23:00 IST 2019","115608","tests","test_search_and_add","TestAmazonSearchProducts","","","test_parameter_based_search",""
+"passed","Tue Apr 16 14:20:44 IST 2019","Tue Apr 16 14:21:05 IST 2019","20908","tests","test_search_and_add","TestAmazonSearchProducts","","","test_reduce_quantity",""
+"passed","Tue Apr 16 14:18:31 IST 2019","Tue Apr 16 14:20:44 IST 2019","132647","tests","test_search_and_add","TestAmazonSearchProducts","","","test_add_macbook",""
+"passed","Tue Apr 16 14:16:19 IST 2019","Tue Apr 16 14:18:31 IST 2019","131832","tests","test_search_and_add","TestAmazonSearchProducts","","","test_add_headphone",""
+"passed","Tue Apr 16 14:20:44 IST 2019","Tue Apr 16 14:20:44 IST 2019","218","tests","test_search_and_add","TestAmazonSearchProducts","","","test_delete_headphone_from_cart",""

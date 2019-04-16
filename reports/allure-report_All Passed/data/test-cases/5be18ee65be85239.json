@@ -1,0 +1,98 @@
+{
+  "uid" : "5be18ee65be85239",
+  "name" : "test_delete_headphone_from_cart",
+  "fullName" : "tests.test_search_and_add.TestAmazonSearchProducts#test_delete_headphone_from_cart",
+  "historyId" : "906cf17cb84ac211734ad6173bba9ce9",
+  "time" : {
+    "start" : 1555404644161,
+    "stop" : 1555404644379,
+    "duration" : 218
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "test_setup",
+    "time" : {
+      "start" : 1555404261267,
+      "stop" : 1555404379663,
+      "duration" : 118396
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "6982dbc2bee124e3",
+      "name" : "log",
+      "source" : "6982dbc2bee124e3.txt",
+      "type" : "text/plain",
+      "size" : 0
+    }, {
+      "uid" : "ada414a6240be322",
+      "name" : "stdout",
+      "source" : "ada414a6240be322.txt",
+      "type" : "text/plain",
+      "size" : 0
+    }, {
+      "uid" : "7cc5a232d0301960",
+      "name" : "stderr",
+      "source" : "7cc5a232d0301960.txt",
+      "type" : "text/plain",
+      "size" : 0
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 3,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "tests"
+  }, {
+    "name" : "suite",
+    "value" : "test_search_and_add"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestAmazonSearchProducts"
+  }, {
+    "name" : "host",
+    "value" : "PAVANRV"
+  }, {
+    "name" : "thread",
+    "value" : "12316-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "tests.test_search_and_add"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5be18ee65be85239.json",
+  "parameterValues" : [ ]
+}
